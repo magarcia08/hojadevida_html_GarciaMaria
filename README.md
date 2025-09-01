@@ -4,6 +4,7 @@ Este proyecto es una **hoja de vida en formato web**, desarrollada con **HTML5 y
 El diseño está inspirado en un **layout de tres columnas** (información personal, central y complementaria) con un estilo moderno y responsive.
 
 ---
+## Enlace netlify: https://keen-pasca-409010.netlify.app/
 
 ## 📂 Estructura del Proyecto
 /css
