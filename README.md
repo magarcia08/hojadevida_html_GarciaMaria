@@ -21,7 +21,7 @@ README.md
 
 - ✅ Diseño en **3 columnas** (información personal, trayectoria, complementos).
 - ✅ Foto de perfil circular con borde personalizado.
-- ✅ Sección de **redes sociales con íconos** (Font Awesome).
+- ✅ Sección de **redes sociales con íconos**.
 - ✅ Sección de **skills con barras de progreso animadas**.
 - ✅ Sección de **idiomas**.
 - ✅ **Video embebido** debajo de idiomas.
@@ -34,7 +34,6 @@ README.md
 
 - **HTML5** para la estructura.
 - **CSS3** para estilos y diseño responsivo.
-- **Font Awesome** para íconos de redes sociales.
 
 ---
 
